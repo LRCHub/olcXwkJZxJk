@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "String Theocracy",
+  "base_artist": "Mili",
+  "createdAt": "2026-03-25T06:12:07.155010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "String Theocracy",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/01_String_Theocracy_Mili.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "String Theocracy",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/02_String_Theocracy_Mili.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "String Theocracy",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/03_String_Theocracy_Mili.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "String Theocracy (Key Ingredient ver.)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/04_String_Theocracy_(Key_Ingredient_ver.)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "string theocracy",
+      "artist": "mili",
+      "has_synced": true,
+      "path": "select/05_string_theocracy_mili.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "String Theocracy (Key Ingredient ver․)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/06_String_Theocracy_(Key_Ingredient_ver.)_Mili.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "String Theocracy",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_String_Theocracy_Mili.txt"
+    }
+  ]
+}
